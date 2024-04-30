@@ -1,0 +1,12 @@
+.cabeçalho{
+    padding: 20px;
+}
+.corpo{
+    background-color: black;
+    color: white;
+}
+.cabeçalho-lista-item{
+    display: inline-block;
+    position: absolute;
+    margin: 0px 320px;
+}
